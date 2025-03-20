@@ -59,3 +59,15 @@ h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption, p {
 .more-link {
 	display: block;
 }
+body{
+	color:rgb(233, 134, 190)
+}
+h1{
+	color:rgb(167, 236, 184)
+}
+h2{
+	color:rgb(157, 157, 214)
+}
+footer{
+	color:rgb(230, 215, 88)
+}
